@@ -1,0 +1,15 @@
+.custom-alert {
+    color: #004085 !important;
+    background-color: hsl(211, 100%, 90%) !important;
+    border-color: #b8daff !important;
+}
+
+.custom-alert-danger {
+    color: #721c24 !important;
+    background-color: #f8d7da !important;
+    border-color: #f5c6cb !important;
+}
+
+#delete-form {
+    display: inline-block
+}
