@@ -13,7 +13,8 @@
 ### 5. To migrate tables and seed dummy data      
         php artisan migrate:fresh --seed
 ### 6. To create the symbolic link   
-        php artisan storage:link     
+        php artisan storage:link   
+####  Make sure you are configured the SMTP configuration in the .env file for sending mail  
 ### 6. To run the application
         php artisan serve
 ### 7. Go to browser and enter the url "http://localhost:8000/"       
